@@ -1,4 +1,5 @@
 # > GYAO
+USER-AGENT,GYAO*,AbemaTV
 DOMAIN-SUFFIX,gyao.yahoo.co.jp,GYAO
 DOMAIN-SUFFIX,logql.yahoo.co.jp,GYAO
 DOMAIN-SUFFIX,dsb.yahoo.co.jp,GYAO
