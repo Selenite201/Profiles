@@ -9,3 +9,15 @@ DOMAIN-SUFFIX,s.yimg.jp,GYAO
 DOMAIN-SUFFIX,b3.yahoo.co.jp,GYAO
 DOMAIN-SUFFIX,b9.yahoo.co.jp,GYAO
 DOMAIN-SUFFIX,b11.yahoo.co.jp,GYAO
+DOMAIN-SUFFIX,metrics.brightcove.com,GYAO
+DOMAIN-SUFFIX,fps.brightcove.com,GYAO
+DOMAIN-SUFFIX,edge.api.brightcove.com,GYAO
+DOMAIN-SUFFIX,players.brightcove.net,GYAO
+DOMAIN-SUFFIX,api.smbeat.jp,GYAO
+DOMAIN-SUFFIX,b4.yahoo.co.jp,GYAO
+DOMAIN,gyao.c.yimg.jp,GYAO
+DOMAIN-SUFFIX,inapps.appsflyer.com,GYAO
+DOMAIN-SUFFIX,launches.appsflyer.com,GYAO
+DOMAIN-SUFFIX,secure.panframe.com,GYAO
+DOMAIN-SUFFIX,api.reproio.com,GYAO
+
