@@ -1,1 +1,4 @@
 # > Twitter
+USER-AGENT,Twitter*,Twitter
+HOST-KEYWORD,Twitter,Twitter
+HOST,api.twitter.com,Twitter
