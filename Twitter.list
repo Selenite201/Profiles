@@ -1,3 +1,4 @@
 # > Twitter
 USER-AGENT,Twitter*,Twitter
 HOST-KEYWORD,Twitter,Twitter
+GEOIP,video.twimg.com
