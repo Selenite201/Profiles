@@ -1,8 +1,0 @@
-# > Project sekai
-USER-AGENT,sekai*,sekai
-HOST-SUFFIX,game-version.sekai.colorfulpalette.org
-HOST-SUFFIX,production-web.sekai.colorfulpalette.org
-HOST-SUFFIX,assetbundle.sekai.colorfulpalette.org
-HOST-SUFFIX,assetbundle-info.sekai.colorfulpalette.org
-HOST-SUFFIX,production-game-api.sekai.colorfiulpalette.org
-HOST-SUFFIX,game-version.sekai.colorfulpalette.org
